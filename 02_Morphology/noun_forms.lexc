@@ -1,0 +1,44 @@
+LEXICON Root
+Nouns;
+
+LEXICON Nouns
+S;
+ES;
+VES;
+I;
+Other;
+
+LEXICON S
+cat%<n%>%<pl%> : cats #;
+dog%<n%>%<pl%> : dogs #;
+team%<n%>%<pl%> : teams #;
+house%<n%>%<pl%> : houses #;
+place%<n%>%<pl%> : places #;
+roof%<n%>%<pl%> : roofs #;
+belief%<n%>%<pl%> : beliefs #;
+chef%<n%>%<pl%> : chefs #;
+
+
+LEXICON ES
+fox%<n%>%<pl%> : foxes #;
+class%<n%>%<pl%> : classes #;
+lunch%<n%>%<pl%> : lunches #;
+tax%<n%>%<pl%> : taxes #;
+bus%<n%>%<pl%> : buses #;
+
+LEXICON VES 
+wife%<n%>%<pl%> : wives #;
+wolf%<n%>%<pl%> : wolves #;
+
+
+LEXICON I
+cactus%<n%>%<pl%> : cacti #;
+focus%<n%>%<pl%> : foci #;
+
+LEXICON Other
+mouse%<n%>%<pl%> : mice #;
+goose%<n%>%<pl%> : geese #;
+foot%<n%>%<pl%> : feet #;
+
+
+
